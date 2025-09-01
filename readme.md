@@ -4,7 +4,7 @@
 
 ## 🚀 Project Overview
 
-This project demonstrates **SPI (Serial Peripheral Interface) communication** between two Arduino boards. One Arduino acts as the **Master** and the other as the **Slave**, with cross-controlled LEDs and push buttons to showcase bidirectional data transfer using the SPI protocol.
+This project demonstrates [**SPI (Serial Peripheral Interface) communication between two Arduino boards**](https://circuitdigest.com/microcontroller-projects/arduino-spi-communication-tutorial). One Arduino acts as the **Master** and the other as the **Slave**, with cross-controlled LEDs and push buttons to showcase bidirectional data transfer using the SPI protocol.
 
 ### Key Features
 - ✅ **Full-duplex communication** - Simultaneous data transfer in both directions
@@ -203,8 +203,6 @@ This basic SPI setup can be extended for:
 - Circuit analysis
 
 ## 🔗 Resources and References
-
-- **Original Tutorial**: [Arduino SPI Communication Tutorial](https://circuitdigest.com/microcontroller-projects/arduino-spi-communication-tutorial)
 - **Arduino SPI Library**: [Official Documentation](https://www.arduino.cc/en/reference/SPI)
 - **SPI Protocol Specification**: [Motorola SPI Standard](https://www.motorola.com)
 
